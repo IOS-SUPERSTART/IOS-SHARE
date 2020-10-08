@@ -7,8 +7,8 @@
             1. 위치별로 몇걸을 걸었는지를 알아야 한다.
             2. KISA SEED_CBC 암호화 통신을 해야한다.
             
-###       : 과제
-            1. [랜덤 선택](https://github.com/znfod-dev/Games01)
+###       : [과제](https://github.com/znfod-dev/Games01)
+            
 
 
 ### 안홍석 : 수영장 찾기 프로그램
